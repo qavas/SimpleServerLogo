@@ -1,14 +1,17 @@
-# SimpleServerLogo
-A Logo that Shows on the top right of your screen. 
+# Simple Server Logo
+
+## Table of Contents
++ [About](#about)
++ [Getting Started](#getting_started)
++ [Contact](#contact)
+
+## About <a name = "about"></a>
+A Simple Script that allows you to put your own server logo on all players’ screen.
+
+## Getting Started <a name = "getting_started"></a>
+Documentation on my <a href="https://qtprod.com/simpleserverlogo">website</a> 
 
 
-**INSTALLATION**
 
-Simply just change the URL of the image in index.html, and there you go!
-
-add `start SimpleServerLogo` to your server.cfg
-
-
-**TO-DO**
-
-I will be updating this once I get the time to make it easier and more accessable for new users.
+## Contact <a name = "contact"></a>
+Contact me on discord qavas#0746 or join my discord on my <a href="https://qtprod.com">website</a> 
