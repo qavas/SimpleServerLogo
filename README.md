@@ -7,12 +7,12 @@ A Simple Script that allows you to put your own server logo on all players’ sc
 ## Getting Started <a name = "getting_started"></a>
 Documentation on my <a href="https://qtprod.com/simpleserverlogo">website</a> 
 
-## Config
+### Config
 Inside the html folder, there is a file called config.js
 
-Add your <a href="https://imgur.com">imgur</a> or <a href="https://flickr.com">imgur</a>link by right clicking on your image and selecting "Copy Image Address"
+Add your <a href="https://imgur.com">imgur</a> or <a href="https://flickr.com">flickr</a> link by right clicking on your image and selecting "Copy Image Address"
 
-Add you link here :
+Add your link here :
 <img src="https://live.staticflickr.com/65535/50960478886_674c4dc4de.jpg">
 
 ## Contact <a name = "contact"></a>
